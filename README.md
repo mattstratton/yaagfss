@@ -1,5 +1,4 @@
-# YAAGFSS
-## Yet Another Another Generator For Static Sites
+# Yet Another Another Generator For Static Sites (YAAGFSS)
 
 There clearly aren't enough static site generators. Why not one more?
 
