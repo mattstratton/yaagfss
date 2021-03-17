@@ -1,5 +1,7 @@
 # Yet Another Another Generator For Static Sites (YAAGFSS)
 
+![yaagfss](images/yaagfss.gif)
+
 There clearly aren't enough static site generators. Why not one more?
 
 ### Usage
